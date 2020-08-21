@@ -1,1 +1,1 @@
-A Web project which suggests and gives the details of ten movies for a given search string. 
+A Web project which gives details for the movies searched for.
