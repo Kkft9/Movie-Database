@@ -3,6 +3,16 @@
 * Created the interface using React and NodeJS
 
 ## Images ##
+<table>
+    <tr>
+        <td> <img src="https://github.com/Kkft9/Movie-Database/blob/master/images/react-hitman.png" width="500" height="250"/></td>  
+        <td> <img src="https://github.com/Kkft9/Movie-Database/blob/master/images/react-fast.png" width="500" height="250" /></td>  
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/Kkft9/Movie-Database/blob/master/images/react-hitman_details1.png" width="500" height="250" />     </td>  
+        <td> <img src="https://github.com/Kkft9/Movie-Database/blob/master/images/react-hitman_details2.png" width="500" height="250" /></td>  
+    </tr>
+</table>
 
 ## Getting Started ##
 
