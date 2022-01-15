@@ -16,7 +16,7 @@
 
 ## Getting Started ##
 
-* Install dependencies
+* Install dependencies in both backend and frontend folders
 ```
     npm install
 ```
