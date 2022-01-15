@@ -13,10 +13,6 @@ router.get('/', function(req, res, next) {
     next();
 });
 
-/* Hello World */
-// router.get('/', function (req, res, next) {
-//     res.send("Hello World");
-// });
 
 /* IMDB Search */
 router.get('/search', (req, res, next) => {
